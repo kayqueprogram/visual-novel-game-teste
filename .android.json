@@ -1,0 +1,1 @@
+{"package": "entre.mundos.sirius", "name": "Entre Mundos", "icon_name": "Entre Mundos", "version": "1.0", "numeric_version": 1, "orientation": "sensorLandscape", "permissions": ["VIBRATE", "INTERNET"], "include_pil": false, "include_sqlite": false, "layout": null, "source": false, "expansion": false, "store": "all", "update_icons": true, "update_always": false, "heap_size": "2"}
